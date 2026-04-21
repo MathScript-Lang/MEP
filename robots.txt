@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mathscript-lang.github.io/MEP/sitemap.xml
+Sitemap: https://mathscript-lang.github.io/MEP/MEP/sitemap.xml
