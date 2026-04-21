@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://mathscript-lang.github.io/MEP/sitemap.xml
